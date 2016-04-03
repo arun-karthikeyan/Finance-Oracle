@@ -1,0 +1,110 @@
+--
+R1
+--
+Each feature has information about previous 7 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 5000 Ntrain : 35
+Mtest : 1250 Ntest : 35
+
+Learing - Stochastic Gradient Descent 10k Iterations
+---------------------------------------------------------------------------------------------------------
+--
+R2
+--
+Each feature has information about previous 7 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 2394 Ntrain : 35
+Mtest : 599 Ntest : 35
+Learing - Stochastic Gradient Descent 10k Iterations
+
+---------------------------------------------------------------------------------------------------------
+--
+R3
+--
+
+Each feature has information about previous 7 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 13124 Ntrain : 35
+Mtest : 3281 Ntest : 35
+Learing - Stochastic Gradient Descent 10k Iterations
+
+PNG wasn't saved due to cache overflow, but the recorded accuracy was averaged at 46%
+
+---------------------------------------------------------------------------------------------------------
+--
+R4
+--
+
+Each feature has information about previous 7 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 1594 Ntrain : 35
+Mtest : 399 Ntest : 35
+Learing - Stochastic Gradient Descent 10k Iterations
+
+---------------------------------------------------------------------------------------------------------
+--
+R5
+--
+
+Each feature has information about previous 7 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 794 Ntrain : 35
+Mtest : 199 Ntest : 35
+
+Using 20000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 52.2613 | with lambda - 0.0000 | with alpha - 0.0050
+
+---------------------------------------------------------------------------------------------------------
+--
+R6
+--
+
+Each feature has information about previous 7 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 794 Ntrain : 35
+Mtest : 199 Ntest : 35
+
+Using 50000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 52.2613 | with lambda - 0.0000 | with alpha - 0.0050
+
+---------------------------------------------------------------------------------------------------------
+--
+R7
+--
+Each feature has information about previous 7 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 394 Ntrain : 35
+Mtest : 99 Ntest : 35
+
+Using 10000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 49.4949 | with lambda - 0.0000 | with alpha - 0.0050
+
+---------------------------------------------------------------------------------------------------------
+--
+R8
+--
+Same as R7 But have halved the values of alpha and lambda
+
+---------------------------------------------------------------------------------------------------------
+--
+R9
+--
+
+

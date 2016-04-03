@@ -1,0 +1,18 @@
+Each feature has information about previous 14 days
+Each day comprises of the following 5 features - Open High Low AdjClose Volume
+
+Mtrain : 5000 Ntrain : 70
+Mtest : 1250 Ntest : 70
+
+Iterations : 10000*Mtrain - Stochastic Gradient Descent
+
+Run6 takes into account the recent 20% of the data as test data
+Run5 takes into account the following details, + recent 20% of the data
+
+Each feature has information about previous 14 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 3189 Ntrain : 70
+Mtest : 797 Ntest : 70
+

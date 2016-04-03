@@ -1,0 +1,7 @@
+Each feature has information about previous 14 days
+Each day comprises of the following 5 features - Open High Low AdjClose Volume
+
+Mtrain : 2949 Ntrain : 70
+Mtest : 737 Ntest : 70
+
+Iterations : 10000*Mtrain - Stochastic Gradient Descent

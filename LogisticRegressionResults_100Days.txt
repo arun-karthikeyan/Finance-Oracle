@@ -1,0 +1,318 @@
+Settings :
+Each input feature vector has information about previous 100 days
+Initial Values of Theta set to a vector of zeros
+Test Data has been randomly split from training data - 20%
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.791118e-01
+Test Accuracy - 53.0656 | with lambda - 0.0500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.806430e-01
+Test Accuracy - 53.1269 | with lambda - 0.1000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.815545e-01
+Test Accuracy - 53.0349 | with lambda - 0.1500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.821578e-01
+Test Accuracy - 52.9430 | with lambda - 0.2000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  6901 | Cost: 6.825979e-01
+Test Accuracy - 52.8510 | with lambda - 0.2500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  6127 | Cost: 6.829397e-01
+Test Accuracy - 52.9736 | with lambda - 0.3000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  7084 | Cost: 6.832163e-01
+Test Accuracy - 53.0043 | with lambda - 0.3500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  7228 | Cost: 6.834468e-01
+Test Accuracy - 52.9430 | with lambda - 0.4000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  6469 | Cost: 6.836431e-01
+Test Accuracy - 52.9736 | with lambda - 0.4500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  5992 | Cost: 6.838134e-01
+Test Accuracy - 52.8204 | with lambda - 0.5000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  6573 | Cost: 6.839632e-01
+Test Accuracy - 52.6977 | with lambda - 0.5500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  4449 | Cost: 6.840965e-01
+Test Accuracy - 52.7897 | with lambda - 0.6000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  4846 | Cost: 6.842161e-01
+Test Accuracy - 52.8204 | with lambda - 0.6500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  4623 | Cost: 6.843245e-01
+Test Accuracy - 52.7897 | with lambda - 0.7000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  4127 | Cost: 6.844234e-01
+Test Accuracy - 52.6977 | with lambda - 0.7500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  3926 | Cost: 6.845141e-01
+Test Accuracy - 52.6364 | with lambda - 0.8000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  5380 | Cost: 6.845978e-01
+Test Accuracy - 52.7284 | with lambda - 0.8500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  4812 | Cost: 6.846753e-01
+Test Accuracy - 52.7284 | with lambda - 0.9000
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  3807 | Cost: 6.847475e-01
+Test Accuracy - 52.6364 | with lambda - 0.9500
+
+%---------------------------------------------------------------%
+
+Training for optimal Theta - 10000 epochs
+
+Iteration  3780 | Cost: 6.848150e-01
+Test Accuracy - 52.7284 | with lambda - 1.0000
+
+%---------------------------------------------------------------%
+
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+Settings :
+Each input feature vector has information about previous 100 days
+Initial Values of Theta set to a vector of random values obtained via randperm
+Test Data has been randomly split from training data - 20%
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.782593e-01
+Test Accuracy - 52.5751 | with lambda - 0.0500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.799901e-01
+Test Accuracy - 52.3912 | with lambda - 0.1000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.809182e-01
+Test Accuracy - 52.4831 | with lambda - 0.1500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  9722 | Cost: 6.815236e-01
+Test Accuracy - 52.3912 | with lambda - 0.2000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  10000 | Cost: 6.819603e-01
+Test Accuracy - 52.2992 | with lambda - 0.2500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  6707 | Cost: 6.822956e-01
+Test Accuracy - 52.2072 | with lambda - 0.3000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  6644 | Cost: 6.825643e-01
+Test Accuracy - 52.0846 | with lambda - 0.3500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  6670 | Cost: 6.827864e-01
+Test Accuracy - 52.0540 | with lambda - 0.4000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  5990 | Cost: 6.829743e-01
+Test Accuracy - 51.9620 | with lambda - 0.4500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  6090 | Cost: 6.831363e-01
+Test Accuracy - 51.9926 | with lambda - 0.5000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  8256 | Cost: 6.832780e-01
+Test Accuracy - 52.0846 | with lambda - 0.5500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  4607 | Cost: 6.834035e-01
+Test Accuracy - 52.0540 | with lambda - 0.6000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  5357 | Cost: 6.835157e-01
+Test Accuracy - 52.0233 | with lambda - 0.6500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  4476 | Cost: 6.836169e-01
+Test Accuracy - 52.0233 | with lambda - 0.7000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  4707 | Cost: 6.837090e-01
+Test Accuracy - 52.0233 | with lambda - 0.7500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  4220 | Cost: 6.837932e-01
+Test Accuracy - 52.0540 | with lambda - 0.8000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  5321 | Cost: 6.838707e-01
+Test Accuracy - 52.0540 | with lambda - 0.8500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  4173 | Cost: 6.839423e-01
+Test Accuracy - 52.0233 | with lambda - 0.9000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  4669 | Cost: 6.840089e-01
+Test Accuracy - 52.0846 | with lambda - 0.9500
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+einit =  0.10933
+Training for optimal Theta - 10000 epochs
+
+Iteration  3362 | Cost: 6.840710e-01
+Test Accuracy - 51.9926 | with lambda - 1.0000
+
+%------------------------------------------------------------------------------------------------------------------------------%
+
+

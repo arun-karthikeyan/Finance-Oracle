@@ -1,0 +1,101 @@
+Regularization isn't being done, as the feature list size is already too low
+But more variations os alpha has been added
+
+--
+R1
+--
+Each feature has information about previous 1 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 4999 Ntrain : 5
+Mtest : 1250 Ntest : 5
+
+Using 10000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 55.0400 | with lambda - 0.0000 | with alpha - 0.0025
+
+---------------------------------------------------------------------------------------------------------
+
+--
+R2
+--
+
+Each feature has information about previous 1 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 4999 Ntrain : 5
+Mtest : 1250 Ntest : 5
+
+Using 10000 iterations of stochastic gradient descent
+
+---------------------------------------------------------------------------------------------------------
+
+--
+R3
+--
+
+Each feature has information about previous 1 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 1599 Ntrain : 5
+Mtest : 400 Ntest : 5
+
+Using 10000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 55.0000 | with lambda - 0.0000 | with alpha - 0.0025
+
+---------------------------------------------------------------------------------------------------------
+
+--
+R4
+--
+
+Each feature has information about previous 1 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 799 Ntrain : 5
+Mtest : 200 Ntest : 5
+
+Using 10000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 52.0000 | with lambda - 0.0000 | with alpha - 0.0025
+
+---------------------------------------------------------------------------------------------------------
+
+--
+R5
+--
+
+Each feature has information about previous 1 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 399 Ntrain : 5
+Mtest : 100 Ntest : 5
+
+Using 10000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 50.0000 | with lambda - 0.0000 | with alpha - 0.0025
+
+---------------------------------------------------------------------------------------------------------
+
+--
+R6
+--
+
+Each feature has information about previous 1 days
+
+warning: operator -: automatic broadcasting operation applied
+warning: quotient: automatic broadcasting operation applied
+Mtrain : 199 Ntrain : 5
+Mtest : 50 Ntest : 5
+
+Using 10000 iterations of stochastic gradient descent
+
+Test Accuracy with Initial Value of Theta - 44.0000 | with lambda - 0.0000 | with alpha - 0.0025
+
+---------------------------------------------------------------------------------------------------------

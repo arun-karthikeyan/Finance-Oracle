@@ -1,0 +1,4 @@
+1) As you bring in more past data the S&P 500 accuracy is decreasing 
+2) More features (more no of days taken in account for predicting the next day stock) requires more data ! for low data the accuracy gets lower
+3) No of hidden units should be at least 1.5 times as much as the no of input units (If 1 hidden layer)
+
